@@ -41,7 +41,7 @@ const Controls = ({ robots, setRobots, trash, setTrash }) => {
   };
 
   return (
-    <div style={{ border: "1px solid black", padding: "10px", marginTop: "-150px" }}>
+    <div style={{ border: "1px solid black", padding: "10px", marginTop: "50px" }}>
       <h3>🎮 Controls</h3>
       <div style={{ marginBottom: "10px" }}>
         <p>Select Robot:</p>
