@@ -114,7 +114,7 @@ const Dashboard = () => {
   return (
     <div style={{ position: "relative", padding: "20px", minHeight: "100vh" }}>
       <img
-        src="waterfall.jpg" // Replace with your image URL
+        src="water.jpg" // Replace with your image URL
         alt="Background"
         style={{
           position: "absolute",
